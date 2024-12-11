@@ -4327,11 +4327,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tiend\\Desktop\\PRN PROJECT\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj",
+      "projectUniqueName": "C:\\Users\\tiend\\Desktop\\PRN212\\PRN212-ShoppingWeb\\Shopping_Tutorial\\Shopping_Tutorial.csproj",
       "projectName": "Shopping_Tutorial",
-      "projectPath": "C:\\Users\\tiend\\Desktop\\PRN PROJECT\\Shopping_Tutorial\\Shopping_Tutorial\\Shopping_Tutorial.csproj",
+      "projectPath": "C:\\Users\\tiend\\Desktop\\PRN212\\PRN212-ShoppingWeb\\Shopping_Tutorial\\Shopping_Tutorial.csproj",
       "packagesPath": "C:\\Users\\tiend\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tiend\\Desktop\\PRN PROJECT\\Shopping_Tutorial\\Shopping_Tutorial\\obj\\",
+      "outputPath": "C:\\Users\\tiend\\Desktop\\PRN212\\PRN212-ShoppingWeb\\Shopping_Tutorial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tiend\\AppData\\Roaming\\NuGet\\NuGet.Config",

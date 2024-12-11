@@ -1,8 +1,8 @@
-﻿@model UserModel
+﻿@model LoginViewModel
 @{
     ViewData["Title"] = "Register";
 }
-<section id="form">
+<section id="">
 	<!--form-->
 	<div class="container">
 		<div class="row">
@@ -12,6 +12,7 @@
 					<h2>Login to your account</h2>
 					<div asp-validation-summary="ModelOnly" class="text-danger"></div>
 					<form asp-action="Login" asp-controller="Account">
+
 						<div class="form-group">
 							<label>Username</label>
 							<input asp-for="Username" class="form-control" />
@@ -32,3 +33,9 @@
 		</div>
 	</div>
 </section><!--/form-->
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+
+}
