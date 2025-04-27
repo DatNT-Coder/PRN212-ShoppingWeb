@@ -1,0 +1,57 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code folders
+.vscode/
+
+# Rider project files
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# IIS Express
+.vs/
+*.vspscc
+*.vssscc
+
+# SQL Server database files
+*.mdf
+*.ldf
+
+# EF Core Migrations history
+Migrations/
+
+# Local environment files
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# Others
+*.log
+*.nlog
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Publish folder
+publish/
+
+# Paket dependency manager
+.paket/
+paket-files/
+
+# dotnet watch
+*.dotnetwatch.*
+
+# node_modules (if using frontend with node)
+node_modules/
