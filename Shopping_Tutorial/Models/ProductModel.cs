@@ -11,6 +11,7 @@ namespace Shopping_Tutorial.Models
 
 		[Required(ErrorMessage = "Yeu cau nhap ten san pham")]
 		public string Name { get; set; }
+		public int Quantity { get; set; }
 
 		public string Slug {  get; set; }
 
